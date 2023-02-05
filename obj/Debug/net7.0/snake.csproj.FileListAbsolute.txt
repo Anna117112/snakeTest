@@ -1,0 +1,15 @@
+D:\java\ооп\snake\bin\Debug\net7.0\snake.exe
+D:\java\ооп\snake\bin\Debug\net7.0\snake.deps.json
+D:\java\ооп\snake\bin\Debug\net7.0\snake.runtimeconfig.json
+D:\java\ооп\snake\bin\Debug\net7.0\snake.dll
+D:\java\ооп\snake\bin\Debug\net7.0\snake.pdb
+D:\java\ооп\snake\obj\Debug\net7.0\snake.csproj.AssemblyReference.cache
+D:\java\ооп\snake\obj\Debug\net7.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\java\ооп\snake\obj\Debug\net7.0\snake.AssemblyInfoInputs.cache
+D:\java\ооп\snake\obj\Debug\net7.0\snake.AssemblyInfo.cs
+D:\java\ооп\snake\obj\Debug\net7.0\snake.csproj.CoreCompileInputs.cache
+D:\java\ооп\snake\obj\Debug\net7.0\snake.dll
+D:\java\ооп\snake\obj\Debug\net7.0\refint\snake.dll
+D:\java\ооп\snake\obj\Debug\net7.0\snake.pdb
+D:\java\ооп\snake\obj\Debug\net7.0\snake.genruntimeconfig.cache
+D:\java\ооп\snake\obj\Debug\net7.0\ref\snake.dll
